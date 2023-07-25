@@ -12,7 +12,7 @@ namespace SelectionStatementsExercise2
 
             
 
-            switch(subject)
+            switch(subject)//can also do (subject.ToLower()) or ToUpper which depending on what you choose will amke all entries lower case or all upper case
             {
                 case "Math":
                 case "math":
